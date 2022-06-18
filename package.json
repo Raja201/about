@@ -1,0 +1,24 @@
+{
+  "name": "hvk3ls0heei1swqhfvfp2a_1fd677102d0711e8a11f3f5f282cfd8b_aboutus.html",
+  "version": "1.0.0",
+  "description": "This is assignment 1",
+  "main": "aboutus.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raja201/about.git"
+  },
+  "author": "Raja Sahu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raja201/about/issues"
+  },
+  "homepage": "https://github.com/Raja201/about#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
